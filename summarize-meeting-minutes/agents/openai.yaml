@@ -1,0 +1,4 @@
+interface:
+  display_name: "회의록 요약"
+  short_description: "회의 내용을 정확한 결정·할 일 중심으로 요약"
+  default_prompt: "Use $summarize-meeting-minutes to turn this transcript into concise, evidence-based meeting minutes."
